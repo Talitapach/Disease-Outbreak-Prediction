@@ -44,4 +44,4 @@ st.write(
     "- Classification: F1-Score and AUC-ROC."
 )
 
-st.image('utils\Processo.png')
+st.image('utils/Processo.png')
